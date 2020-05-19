@@ -1,4 +1,5 @@
-# Windows File System Filter Driver Development Tutorial
+# Windows-File-System-Filter-Driver
+***Курсовая работа по СПОВМ. БГУИР, ВМСИС, 2020 год. Тема: Драйвер устройства.***
 
 ## Implementation
 
